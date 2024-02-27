@@ -7,7 +7,6 @@
 </template>
 
 <script>
-import "@aws-amplify/ui-vue/styles.css";
 import HeaderMain from "../common/header-main.vue";
 import NavSidebar from "../common/nav-sidebar.vue";
 import TasksList from "../common/task-list.vue";
